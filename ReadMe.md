@@ -27,7 +27,7 @@ With a deep understanding of cloud platforms (AWS, Azure, DigitalOcean, GCP) and
 
     As the DevOps Engineer for Rahat, a blockchain-based project, I have implemented decentralized storage with IPFS and managed CI/CD pipelines using GitHub Actions. Rahat exemplifies my experience with deploying secure and scalable Web3 applications.
 
-- Giga Blocks:
+- ITN:
 
     A Web3 project leveraging Decentralized Identifiers (DIDs) and Verifiable Credentials (VCs) to solve real-world problems related to digital identity and verification. This project highlights my ability to work with decentralized authentication and security protocols in Web3 applications.
 
