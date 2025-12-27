@@ -37,6 +37,7 @@ With a deep understanding of cloud platforms (AWS, Azure, DigitalOcean, GCP) and
 
 
 ## 🏆 Certifications:
+- [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/f117ec70-45e1-4892-8642-b4a2da03ee19)
 - [Microsoft Azure Fundamentals Certification](https://www.credly.com/badges/681fc082-9f21-46cd-b1b6-5e0ca8823b2d)
 
 ## 📫 Contact Me:
