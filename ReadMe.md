@@ -1,4 +1,4 @@
-# Sandab Gharti GC aka TheSpiritMan- DevOps Engineer:
+# Sandab Gharti GC aka TheSpiritMan | DevOps Engineer | [Portfolio](https://sandabgc.com.np/):
 Welcome to my GitHub! I'm a DevOps Engineer with expertise in cloud infrastructure, CI/CD, and automation, with a specialized focus on blockchain and Web3 applications. I’m passionate about leveraging DevOps practices to streamline development workflows and deploy decentralized applications (dApps) that are secure, scalable, and resilient.
 
 ## 👨‍💻 ABOUT ME:
