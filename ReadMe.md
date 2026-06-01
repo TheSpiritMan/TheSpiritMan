@@ -1,10 +1,27 @@
 # Sandab Gharti GC aka TheSpiritMan | DevOps Engineer | [Portfolio](https://sandabgc.com.np/):
 Welcome to my GitHub! I'm a DevOps Engineer with expertise in cloud infrastructure, CI/CD, and automation, with a specialized focus on blockchain and Web3 applications. I’m passionate about leveraging DevOps practices to streamline development workflows and deploy decentralized applications (dApps) that are secure, scalable, and resilient.
 
+---
+
+<table border="0" cellpadding="0" cellspacing="5" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=TheSpiritMan&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=TheSpiritMan&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 👨‍💻 ABOUT ME:
-I am currently a DevOps Engineer at Rumsan Associates, a blockchain-focused company, where I handle everything from infrastructure provisioning and security to CI/CD pipeline management. My work includes deploying Web3 applications, managing IPFS storage, and working with blockchain frameworks like Hyperledger Fabric for decentralized, secure transactions.
+I am currently a DevOps Engineer at **Quark InfoTech**, where I handle everything from infrastructure provisioning and security to CI/CD pipeline management. My work includes deploying Web3 applications, managing IPFS storage, and working with blockchain frameworks like Hyperledger Fabric for decentralized, secure transactions.
 
 With a deep understanding of cloud platforms (AWS, Azure, DigitalOcean, GCP) and automation tools, I excel at building infrastructure that supports both traditional applications and decentralized technologies.
+
+---
 
 ## 🌐 Technical Skills:
 - <b>Blockchain & Web3</b>: IPFS, Hyperledger Fabric, decentralized storage solutions
@@ -17,6 +34,7 @@ With a deep understanding of cloud platforms (AWS, Azure, DigitalOcean, GCP) and
 - <b>Networking & Security</b>: VPNs, IAM, SSL, Secure Database Backups
 - <b>Version Control</b>: Git, GitHub
 
+---
 
 ## 🚀 Featured Projects:
 - [DevOps Toolkit](https://github.com/TheSpiritMan/DevOps-Tools):
@@ -35,18 +53,23 @@ With a deep understanding of cloud platforms (AWS, Azure, DigitalOcean, GCP) and
 
     A blockchain-based NFT trading platform, Artswap facilitates the exchange of digital art through a secure and transparent marketplace. This project showcases my skills in deploying Web3 solutions that use blockchain to support secure, peer-to-peer transactions.
 
+---
 
 ## 🏆 Certifications:
 - [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/f117ec70-45e1-4892-8642-b4a2da03ee19)
 - [GCP Associate Cloud Engineer](https://www.credly.com/badges/89977e0d-58c0-4bbd-a9b4-f80ec4758652)
 - [Microsoft Azure Fundamentals Certification](https://www.credly.com/badges/681fc082-9f21-46cd-b1b6-5e0ca8823b2d)
 
+---
+
 ## 📫 Contact Me:
 - Email: sandabgc26@gmail.com
 - LinkedIn: [Sandab Gharti GC](https://www.linkedin.com/in/thespiritman/)
 - GitHub: [TheSpiritMan](https://github.com/TheSpiritMan)
 
+---
 
 ## ⚙️ DevOps & Blockchain Philosophy:
 I believe in using automation and IaC to simplify complex blockchain and Web3 infrastructure. My goal is to support decentralized technologies with scalable, secure, and efficient systems that integrate seamlessly into development workflows.
 
+---
