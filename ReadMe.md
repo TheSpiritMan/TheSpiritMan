@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a DevOps Engineer with expertise in cloud infrastructu
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=TheSpiritMan&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=TheSpiritMan&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%">
       <img src="https://streak-stats.demolab.com?user=TheSpiritMan&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="100%" />
@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a DevOps Engineer with expertise in cloud infrastructu
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sandab-rumsan&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats (Office)" width="100%" />
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sandab-rumsan&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats (Office)" width="100%" />
     </td>
     <td align="center" width="50%">
       <img src="https://streak-stats.demolab.com?user=sandab-rumsan&theme=dark&hide_border=true" alt="GitHub Streak Stats (Office)" width="100%" />
